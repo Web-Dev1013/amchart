@@ -1,0 +1,1 @@
+var covid_us_total_current = {"confirmed":15895638,"deaths":295386,"recovered":6075433,"date":"2020-12-12"}
